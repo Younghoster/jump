@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a3df55b4-97b6-4a91-b32a-5668f8ed4fdc",
+  "atlasJson": "{\"imagePath\":\"jump_tex.png\",\"width\":512,\"SubTexture\":[{\"width\":192,\"y\":1,\"height\":211,\"name\":\"主体\",\"x\":1},{\"width\":67,\"y\":214,\"height\":137,\"name\":\"盾牌\",\"x\":136},{\"width\":122,\"y\":214,\"height\":97,\"name\":\"手臂\",\"x\":1},{\"width\":126,\"y\":353,\"height\":71,\"name\":\"眉毛2\",\"x\":136},{\"width\":133,\"y\":313,\"height\":71,\"name\":\"眉毛1\",\"x\":1}],\"height\":512,\"name\":\"jump\"}",
+  "texture": "4e968ac1-02ba-436b-ad0e-0d6d95b04c71",
+  "subMetas": {}
+}
